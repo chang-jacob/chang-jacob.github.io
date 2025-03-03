@@ -29,7 +29,7 @@ latest_posts:
 
 I'm a Ph.D. student in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/). My research interests are in biostatistics and computational methods development for the analysis of spatial omics data. I am also very interested in the intersection of science, law, and policy. 
 
-Before Stanford, I graduated from the University of Notre Dame, where I earned Bachelor's degrees in Statistics and Sociology. I also worked for a few years as a Data Scientist for [84.51&deg;](https://www.8451.com/), where I worked on both the Health & Wellness Pharmacy Team and the Algorithmic Fairness Team. As a graduate student, I have interned at Genentech and Amgen as a computational biologist and bioinformatician. 
+Before Stanford, I graduated from the University of Notre Dame, where I earned bachelor's degrees in Statistics and Sociology. I also worked for a few years as a Data Scientist at [84.51&deg;](https://www.8451.com/), where I worked on the Health and Wellness Pharmacy Team and the Algorithmic Fairness Team. As a graduate student, I have interned as a computational biologist and bioinformatician at Genentech and Amgen. 
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
