@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chang-jacob.github.io/al-folio/sitemap.xml
+Sitemap: https://chang-jacob.github.io/sitemap.xml
