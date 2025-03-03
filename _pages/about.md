@@ -27,9 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. student in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/). My research interests are in biostatistics and computational methods development for the analysis of spatial omics data. I am also very interested in the intersection of science, law, and policy. 
+I'm a Ph.D. student in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/). My research interests are in biostatistics and computational methods development for the analysis of spatial omics data. I am also deeply interested in the intersection of biotechnology, law, and policy. 
 
-Before Stanford, I graduated from the University of Notre Dame, where I earned bachelor's degrees in Statistics and Sociology. I also worked for a few years as a Data Scientist at [84.51&deg;](https://www.8451.com/), where I worked on the Health and Wellness Pharmacy Team and the Algorithmic Fairness Team. As a graduate student, I have interned as a computational biologist and bioinformatician at Genentech and Amgen. 
+I'm originally from Mililani, Hawai'i, and I attended the University of Notre Dame, where I earned bachelor's degrees in Statistics and Sociology. Before graduate school, I worked as a Data Scientist at [84.51&deg;](https://www.8451.com/), where I worked on both the Health and Wellness Pharmacy Team and the Algorithmic Fairness Team. As a graduate student, I have interned as a computational biologist and bioinformatician at Genentech and Amgen. 
+
+Outside of research, I enjoy reading, hiking, and spending time with my wife and dogs. I can occasionally be found running, but I enjoy this significantly less!
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
