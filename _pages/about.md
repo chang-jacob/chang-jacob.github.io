@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. student in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/). My research interests are in biostatistics and computational methods development for the analysis of spatial omics data. I am also deeply interested in the intersection of biotechnology, law, and policy. 
+I'm a Ph.D. student in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/). I am interested in the intersection of health, biotechnology, policy, and law. 
+
+<!-- My research interests are in biostatistics and computational methods development for the analysis of spatial omics data.  -->
 
 I'm originally from Mililani, Hawai'i, and I attended the University of Notre Dame, where I earned bachelor's degrees in Statistics and Sociology. Before graduate school, I worked as a Data Scientist at [84.51&deg;](https://www.8451.com/), where I worked on both the Health and Wellness Pharmacy Team and the Algorithmic Fairness Team. As a graduate student, I have interned as a computational biologist and bioinformatician at Genentech and Amgen. 
 
