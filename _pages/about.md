@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. student in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/). I am interested in the intersection of health, biotechnology, policy, and law. 
+I'm a Ph.D. student in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/) and [Dr. Lu Tian](https://profiles.stanford.edu/lu-tian?tab=bio). My research is primarily in biostatistics and spatial biology. I am also interested in the intersection of health, biotechnology, policy, and law. 
 
 <!-- My research interests are in biostatistics and computational methods development for the analysis of spatial omics data.  -->
 
