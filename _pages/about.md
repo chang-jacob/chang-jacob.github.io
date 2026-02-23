@@ -27,10 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. candidate in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/) and [Dr. Lu Tian](https://profiles.stanford.edu/lu-tian?tab=bio). I am broadly interested in developing better computational and statistical methods to analyze noisy and high-dimensional biological data.
+I'm a Ph.D. candidate in Biomedical Data Science at Stanford University, advised by [Dr. Sylvia Plevritis](https://plevritislab.stanford.edu/) and [Dr. Lu Tian](https://profiles.stanford.edu/lu-tian?tab=bio). I am interested in statistical bioinformatics to analyze noisy and high-dimensional biological data.
 
-My recent projects have been in (1) developing a statistical framework and R package to detect statistically significant differences in spatial cell type colocalization from spatial omics data, (2) multimodal integration of spatial transcriptomics, spatial proteomics, and histopathology in lung adenocarcinoma, and (3) a python package to perform interpretable and spatially informed dimension reduction of transcriptomics data for cellular interaction networks.
+<!-- My recent projects have been in (1) developing a statistical framework and R package to detect statistically significant differences in spatial cell type colocalization from spatial omics data, (2) multimodal integration of spatial transcriptomics, spatial proteomics, and histopathology in lung adenocarcinoma, and (3) a python package to perform interpretable and spatially informed dimension reduction of transcriptomics data for cellular interaction networks. -->
+
+My recent projects have been in (1) developing a statistical framework and R package to analyze spatial cell type colocalization across multiple samples and groups, (2) improved spatial domain analysis combining spatial transcriptomics and vision-language histopathology foundation models, and (3) spatial contextual ligand-receptor analysis across multiple samples using spatial transcriptomics. 
  
-I'm originally from Mililani, Hawai'i, and earned bachelor's degrees in Statistics and Sociology from the University of Notre Dame. Before graduate school, I worked as a Data Scientist at [84.51&deg;](https://www.8451.com/), where I worked on the Health and Wellness Pharmacy Team and the Algorithmic Fairness Team. As a graduate student, I have interned as a computational biologist and bioinformatician at Genentech and Amgen. 
+I'm originally from Mililani, Hawai'i, and earned bachelor's degrees in Statistics and Sociology from the University of Notre Dame. Before graduate school, I worked as a Data Scientist at [84.51&deg;](https://www.8451.com/), where I worked on the Health and Wellness Pharmacy Team and the Algorithmic Fairness Team. As a graduate student, I have interned as a computational biologist and bioinformatician at Genentech and Amgen, and in the summer of 2026 will be a Genomic Data Science intern at Element Biosciences. 
 
 Outside of research, I enjoy reading, hiking, and spending time with my wife and dogs.
